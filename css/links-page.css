@@ -7,7 +7,7 @@
 	margin: 0 auto 32px;
 	max-width: 600px;
 	text-align: center;
-	color: #262626;
+	color: var(--main-txt-color);
 }
 .links-page-list__item-link{
 	display: -webkit-flex;
@@ -26,8 +26,8 @@
 	text-align: center;
 	padding: 8px 16px;
 	min-height: 62px;
-	background: #755ea2;
-	color: #fff;
+	background: var(--elems-color);
+	color: var(--btn-txt-color);
 	font-size: 16px;
 	margin-bottom: 18px;
 	border-radius: 4px;
@@ -43,7 +43,7 @@
 	display: block;
 	width: 100%;
 }
-.links-page-list__item-link:hover{background: #337ab7;}
+.links-page-list__item-link:hover{background: var(--elems-hover);}
 .links-page-list__item-txt{
 	font-size: 14px;
 	line-height: 1.4;

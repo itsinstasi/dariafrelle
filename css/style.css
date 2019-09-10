@@ -2,6 +2,7 @@
 @import "vendors/font-awesome.css";
 @import "vendors/normalize.css";
 @import "vendors/slick.css";
+@import "vars.css";
 @import "basic.css";
 @import "main-sec.css";
 @import "stories.css";
