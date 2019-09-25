@@ -1,2 +1,2 @@
 ﻿User-agent: *
-Sitemap: https://dariafrelle.itsinsta.site/sitemap.xml
+Sitemap: http://dariafrelle.itsinsta.site/sitemap.xml
